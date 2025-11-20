@@ -19,7 +19,7 @@
 - Competent
 - Proficient
 - Expert
-
+-
 ## Incident Management Lifecycles by Skill Level
 
 | Lifecycle Stage          | Novice                               | Advanced Beginner                      | Competent                             | Proficient                                     | Expert                                       |
